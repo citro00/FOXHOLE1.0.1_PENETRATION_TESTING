@@ -16,12 +16,6 @@ Dal processo di penetration testing sono stati prodotti i seguenti documenti:
 
 3. **Presentazione_FoxHole1.0.1**: Una presentazione che riassume i principali risultati e le fasi del penetration test.
 
-## Contenuti del Repository
-
-- `PenTest_Report__FOXHOLE1_0_1_.pdf`: Report dettagliato delle vulnerabilità e delle mitigazioni.
-- `PenTest__FOXHOLE1_0_1_.pdf`: Descrizione passo passo del processo di penetration testing.
-- `Presentazione_FoxHole1.0.1.pdf`: Presentazione riassuntiva del progetto.
-
 ## Conclusioni
 
 Questo progetto ha permesso di mettere in pratica le tecniche di penetration testing studiate durante il corso, fornendo una panoramica completa delle vulnerabilità di una macchina virtuale e delle azioni necessarie per mitigarle.
